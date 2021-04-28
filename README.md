@@ -1,3 +1,10 @@
+
+Code Commited in Main branch 
+Used python version 2.7.18
+django 1.11
+Project name - BuildingBlock_Assignment
+
+
 1.Navigate over to Git
 2.Create a virutal environment and install all the dependencies in that.
 2.pip install -r requirements.txt to install dependencies
