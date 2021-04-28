@@ -1,0 +1,3 @@
+Madrid,Spain
+Milan,Italy
+Berlin,Germany
